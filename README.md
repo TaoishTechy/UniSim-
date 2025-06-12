@@ -158,5 +158,5 @@ The Pygame-rendered 3D environment includes:
 
 --- 
 
-> Created with intent by [Your Name / Studio]  
-> For inquiries, demos, or symbolic collaborations: [your_contact@email.com]
+> Created with intent by Michael Landry
+> For inquiries, demos, or symbolic collaborations: 506mikey@gmail.com
